@@ -7,3 +7,4 @@ imbalanced-learn=0.13.0
 category_encoders==2.8.1
 seaborn==0.13.2
 matplotlib==3.10.1
+joblib==1.4.2
